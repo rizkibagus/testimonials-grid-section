@@ -27,7 +27,7 @@
     min-height: 100vh;
   }
 
-  /* Container utama */
+  /* Main container */
   .testimonial-container {
     display: grid;
     grid-template-columns: 1fr;
@@ -137,14 +137,6 @@
     }
 
 
-  .attribution { 
-    font-size: 11px; 
-    text-align: center; 
-}
-.attribution a { 
-    color: hsl(228, 45%, 44%);
- }
-
   /* Grid responsif */
   @media (min-width: 768px) {
     .testimonial-container {
@@ -172,8 +164,7 @@
     .patrick {
       grid-area: patrick;
     }
-
-    
+        
   }
 
 
