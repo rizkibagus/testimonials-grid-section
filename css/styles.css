@@ -108,6 +108,12 @@
     article.daniel {
         background: var(--moderate-violet);
         color: var(--white);
+        background-image: url(../images/bg-pattern-quotation.svg);
+        background-repeat: no-repeat;
+        background-position: right 100px top 40px;
+        background-size: auto;
+
+        
     }
 
     article.jonathan {
